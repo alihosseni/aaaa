@@ -3060,7 +3060,7 @@ end
 if matches[1] == "help" and is_mod(msg) then
 if not lang then
 text = [[
-*Beyond Bot Commands:*
+*Beyond Bot 💀مځأڣڟ ڱڔؤة💀:*
 
 *!setowner* `[username|id|reply]` 
 _Set Group Owner(Multi Owner)_
@@ -3189,12 +3189,12 @@ _You Can Use_ *[!/#]* _To Run The Commands_
 _This Help List Only For_ *Moderators/Owners!*
 _Its Means, Only Group_ *Moderators/Owners* _Can Use It!_
 
-*Good luck ;)*]]
+*Good luck @chegora ;)*]]
 
 elseif lang then
 
 text = [[
-*دستورات ربات بیوند:*
+*دستورات ربات 💀مځأڣڟ ڱڔؤة💀:*
 
 *!setowner* `[username|id|reply]` 
 _انتخاب مالک گروه(قابل انتخاب چند مالک)_
@@ -3325,7 +3325,7 @@ _شما میتوانید از [!/#] در اول دستورات برای اجرا
 
 این به این معناست که فقط مدیران/مالکان گروه میتوانند از دستورات بالا استفاده کنند!_
 
-*موفق باشید ;)*]]
+*برنامه نویسی وترجمه توسط رایان داوه @chegora موفق باشید ;)*]]
 end
 return text
 end
